@@ -1,2 +1,1 @@
-# loan-approval
-Loan Approval Prediction
+<h1>Loan Approval Prediction</h1>
